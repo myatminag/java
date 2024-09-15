@@ -1,8 +1,0 @@
-package com.jdc.demo;
-
-public class DemoApplication {
-
-	public static void demo() {
-		
-	}
-}
