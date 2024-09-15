@@ -1,0 +1,10 @@
+package com.jdc.demo.app;
+
+public class ControllerClass {
+
+	private ServiceClass service = new ServiceClass();
+	
+	public String[] search(String param) {
+		return service.search(param);
+	}
+}

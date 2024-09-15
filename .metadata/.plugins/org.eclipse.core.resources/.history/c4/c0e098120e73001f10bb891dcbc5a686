@@ -1,0 +1,6 @@
+package com.jdc.generics;
+
+public class NewContainer<T> {
+
+	private T value;
+}

@@ -1,0 +1,5 @@
+package com.jdc.pos.features.exception;
+
+public class InputValueInvalidException extends RuntimeException {
+
+}

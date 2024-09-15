@@ -1,0 +1,12 @@
+package com.jdc.generics;
+
+import org.junit.jupiter.api.Test;
+
+public class OldContainerTest {
+
+	@Test
+	void test() {
+		
+		var container = new OldContainer();
+	}
+}

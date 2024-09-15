@@ -1,0 +1,12 @@
+package com.jdc.demo.app;
+
+import com.jdc.demo.app.exceptions.DataAccessException;
+
+public class DataAccess {
+
+	public String[] search(String str) throws DataAccessException {
+		
+		
+		return new String[] {"It is Ok!"};
+	}
+}

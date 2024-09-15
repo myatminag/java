@@ -1,0 +1,18 @@
+package com.jdc.generics;
+
+import java.util.Date;
+
+import org.junit.jupiter.api.Test;
+
+public class NewContainerTest {
+
+	@Test
+	void test() {
+
+		var container = new NewContainer<String>();
+
+		container.setValue("Hello Java");
+
+		var value = container.getValue();
+	}
+}

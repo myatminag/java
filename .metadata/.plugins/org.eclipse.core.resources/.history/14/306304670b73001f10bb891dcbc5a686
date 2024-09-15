@@ -1,0 +1,6 @@
+package com.jdc.generics;
+
+public class OldContainer {
+ 
+	private Object value;
+}
