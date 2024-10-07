@@ -31,5 +31,7 @@
 	<modules>
 		<module>ep-01-lambda-expression</module>
 		<module>ep-02-functional-interfaces</module>
+		<module>pj-03-stream-creation</module>
+		<module>pj-04-intermediate-operations</module>
 	</modules>
 </project>
